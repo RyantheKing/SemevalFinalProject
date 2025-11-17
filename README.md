@@ -12,6 +12,8 @@ Please insert the semeval26_task10_starterpark items  inside the folder  over he
 
 ### running model
 
+add requirements.txt to your venv file
+
 use the bruh.ipynb file and run through each step. it should output json files into test.jsonl and newtest.jsonl. test.jsonl also includes raw text from the checkpointed LLama model for debugging purposes
 
 
