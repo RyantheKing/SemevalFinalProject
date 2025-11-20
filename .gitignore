@@ -1,3 +1,5 @@
+semeval26_starter_pack
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -207,4 +209,3 @@ marimo/_lsp/
 __marimo__/
 datasheet.md
 train_redacted.jsonl
-semeval26_starter_pack
