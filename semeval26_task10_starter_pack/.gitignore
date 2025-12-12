@@ -3,10 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-qwen3-conspiracy-classification
-tmp_inference
-embeddings.npy
-
 # C extensions
 *.so
 
