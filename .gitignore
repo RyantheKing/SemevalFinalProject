@@ -2,8 +2,9 @@ qwen3-conspiracy-classification
 tmp_inference
 embeddings.npy
 dev_rehydrated.jsonl
-train_redhydrated.jsonl
+train_rehydrated.jsonl
 train_redacted.jsonl
+train_one_span.py
 
 
 # Byte-compiled / optimized / DLL files
